@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>RamenPepper</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>RamenPepper</h1>
-<a href="LoginServlet">ログイン</a>
-<a href="RegisterServlet">新規登録</a>
+<a href="">確認</a>
 </body>
 </html>
