@@ -7,6 +7,7 @@
 <title>お気に入り</title>
 </head>
 <body>
+
 <h1>お気に入りページだ！！！！！！！！</h1>
 </body>
 </html>
