@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>お気に入り</title>
+<title>確認画面(hidden)</title>
 </head>
 <body>
-
-<h1>お気に入りページだ！！！！！！！！</h1>
-<a href="/ramenPepper/DetailServlet">詳細</a>
+<h1>隠れRegOK</h1>
 </body>
+</html>

@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>お気に入り</title>
+<title>退会しちゃうのか画面</title>
 </head>
 <body>
-
-<h1>お気に入りページだ！！！！！！！！</h1>
-<a href="/ramenPepper/DetailServlet">詳細</a>
+<a href="/ramenPepper/RegisterServlet">いいえ</a>
 </body>
+</html>

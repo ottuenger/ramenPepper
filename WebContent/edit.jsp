@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>新規登録画面</title>
+<title>登録修正画面</title>
 </head>
 <body>
-
-<h1>新規登録画面</h1>
+<h1>登録修正画面</h1>
 <form action="/ramenPepper/RegisterServlet" method="post">
-<input type="submit" name="newReg" value="確認" />
+<input type="submit" name="editBack" value="戻る" />
+<input type="submit" name="editReg" value="確認" />
 </form>
 
 </body>

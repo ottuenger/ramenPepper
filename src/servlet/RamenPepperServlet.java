@@ -16,7 +16,7 @@ public class RamenPepperServlet extends HttpServlet {
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-		//index.jspにフォワード
+
 		RequestDispatcher disp = request.getRequestDispatcher("/index.jsp");
 		disp.forward(request, response);
 	}
